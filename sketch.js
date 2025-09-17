@@ -37,7 +37,7 @@ function draw() {
         console.log(n);
         console.log(m);
         fill(255)
-        rect(n, m, 50, -200 + mouseY/2)
+        rect(n, m, 50, -300 + mouseY/2)
         }
     }
   
